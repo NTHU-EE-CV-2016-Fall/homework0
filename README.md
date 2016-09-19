@@ -1,6 +1,6 @@
 #homework0
-+This homework is simply used to check if all students know how to work with git and github (no credit).
-+At the sametime, it also helps me to know you a little bit more :)
+This homework is simply used to check if all students know how to work with git and github (no credit).
+At the sametime, it also helps me to know you a little bit more :)
 +
 ## Brief self-introduction [max 500 words]
 + My name is Minchen Lu(呂明真), and my student ID number is 105061584. I am in the lab calld Biophotonic & Ultrasonic Imaging Laboratory   at NTHU.
