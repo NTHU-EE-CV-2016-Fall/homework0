@@ -3,7 +3,9 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-
+Hi, my name is 魏凱亞、Jack. I'm one of the students of Prof.Chiou-Ting Hsu in CS department.
+This is the first year of my mastership. Recently,I started reading papers about computer vision, especially in object detection and cross-domain visual recognition. I found it very interesting in the evolution of approaches in object detection.
+I had lots of fun reading the papers and trying to micmic the thoughts or understand the concept/perspective why the authors would propose such a method.
 ## Why Computer Vision? [max 500 words]
 
 ## What do you want to achieve in the course? [ max 500 words]
