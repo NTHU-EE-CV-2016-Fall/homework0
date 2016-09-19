@@ -1,6 +1,4 @@
 #homework0
-This homework is simply used to check if all students know how to work with git and github (no credit).
-At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
 My name is Josuet Leoro and I came from Ecuador to study Robotics here in Taiwan. I studied my master in Mechatronics Engineering at National Taipei University of Techonology (國立台北科技大學). Currently, I am a second year PhD student in Electrical Engineering and Computer Science at National Chiao Tung University. Robotics is my pasion and I want to learn multiple areas of it. In the future, I want to be a professor back in my country after gaining some experience here in Taiwan.
