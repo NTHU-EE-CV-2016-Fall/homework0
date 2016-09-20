@@ -12,6 +12,8 @@ At the sametime, it also helps me to know you a little bit more :)
 ## What do you want to achieve in the course? [ max 500 words]
 我想要在這門課上學習更多有關的知識，在大學就對電腦視覺的領域相當有興趣，希望可以在這門課上看到更多有趣的發明或是專案，更了解科技的進步，期許對未來有更多的幫助。
 
+XD
+
 PS. 中文 or English are both fine.
 
 ## Due Date: Sept. 23, 2015
