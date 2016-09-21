@@ -1,12 +1,17 @@
 #homework0
-This homework is simply used to check if all students know how to work with git and github (no credit).
-At the sametime, it also helps me to know you a little bit more :)
 
-## Brief self-introduction [max 500 words]
 
-## Why Computer Vision? [max 500 words]
-
-## What do you want to achieve in the course? [ max 500 words]
+## Brief self-introduction
+I'm Jia-Wei Wei(魏嘉緯），a junior undergraduate student in NTHUEE. I'm interested in Machine Learning and its application (e.g.,Computer Vision, Natural Language Processing). I currently try to build a voice-controlled robot for sending things indoors and build mobile app for the game <b>全員逃走中</b>. 
+## Why Computer Vision? 
+I have seen lots of different videos about Computer Vision,such as <a href = https://www.youtube.com/watch?v=4f09VdXex3A> MIT Interactive Dynamic Video </a>,<a href = https://www.youtube.com/watch?v=NTZZCtmR3OY> Google Area Learning </a>. The field is really attractive to me and has great potential. Amazing work from companies like <a href = https://www.magicleap.com/#/home> Magic Leap</a> and <a href = https://www.umbocv.com/> Umbo CV </a> also makes me feel excited.
+## What do you want to achieve in the course? 
+<ul>
+  <li> Have further understanding in Computer Vision.</li> 
+  <li> Learn the skills needed to have internship in Computer Vision company.</li>
+  <li> Try to build an AR/MR application.</li>
+  <li> Meet people who are passionate about building useful apps. 
+</ul>
 
 PS. 中文 or English are both fine.
 
