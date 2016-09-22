@@ -1,12 +1,13 @@
 #homework0
-This homework is simply used to check if all students know how to work with git and github (no credit).
-At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
+我叫陸海侖，今年九月讀碩士一年級。我是陸生，來自上海。讀大學之前，一直生活在上海。大學在北京就讀，在北京航空航天大學學習模式識別與智能系統專業，並且輔修應用數學專業。今年九月份加入孫民老師的實驗室。我的興趣愛好是游泳，打排球、桌球，跑步。最喜歡的漫畫是One Piece.
 
 ## Why Computer Vision? [max 500 words]
+因為對這方面的內容很感興趣。人從外界獲得的大量訊息很多是通過視覺這個途徑，讓電腦這個強大的計算工具能夠理解視訊訊息會是一件很有趣的事情，感覺讓電腦更加智能。通過上CV這門課，我可以學習很多關於計算機視覺的知識。而且是我指導教授開的課，所以肯定要選啦XD
 
 ## What do you want to achieve in the course? [ max 500 words]
+通過上CV這門課，首先我想學習計算器視覺的相關專業知識，對這個領域有更加深入的瞭解。現有的研究成果能夠做些什麼事情，不能做什麼事情，還有那些方面有待深入研究。我今年9月份加入孫老師的實驗室，CV也是將來研究的基礎課程。這門課光聽老師講還不夠，自己要多程式設計實驗。我在大陸讀讀大學時，考核基本已考試為主。以Project為考核形式對我來說挺有趣。希望在final project的時候能多和同學交流想法。多認識一些臺灣朋友。
 
 PS. 中文 or English are both fine.
 
