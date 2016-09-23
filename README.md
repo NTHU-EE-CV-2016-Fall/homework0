@@ -6,7 +6,7 @@
   Since I am doing a project kind of relate to this course, and interest in the idea of machine learning. Taking this course might help me to learn more about the new field.
 
 ## What do you want to achieve in the course? [ max 500 words]
-   The advancement in coding and signal processing. Gain more knowledge about what machine learning,deep learning, and reinforcement learning is.
+   The advancement in coding and signal processing. 
 
 PS. 中文 or English are both fine.
 
