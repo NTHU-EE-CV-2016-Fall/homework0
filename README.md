@@ -3,7 +3,7 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-
+hellow,my name is yen.I major in electrical engineering. This semester is my first time studying in NTHU. My interest is playing badminton.
 ## Why Computer Vision? [max 500 words]
 
 ## What do you want to achieve in the course? [ max 500 words]
