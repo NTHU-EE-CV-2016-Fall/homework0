@@ -1,13 +1,24 @@
 #homework0
-This homework is simply used to check if all students know how to work with git and github (no credit).
-At the sametime, it also helps me to know you a little bit more :)
+電機 17 102061148 林沅廷
 
 ## Brief self-introduction [max 500 words]
+我是目前就讀清大電機大四的林沅廷，大一大二時努力接觸了許多電機系的不同領域，同時也參與了許多活動，社團活動方面曾參加天文社與吉他社，也因此帶了不少營隊，大二時擔任蘭陽周的總籌是對活動最投入的時候。
+
+除了社團與校友會，大三之前我是載物書院的院生，參與了學院許多不同的跨領域活動、講座，然而大三以後由於學業考量便逐漸淡出社團活動與退出學院。
+
+大三開始比較投入專題與其他專業領域的課程，也是在大三開始逐漸探詢自己未來的走向，為了更了解電機各領域，我廣泛地摸索了許多專業的入門課，從電磁波、通訊系統一到類比電路與積體電路到再到DSP與嵌入式系統都有努力嘗試。
+
+平常興趣是出門晃晃拍拍風景，也會看些小說，遊戲有玩但技術都不值一提....
 
 ## Why Computer Vision? [max 500 words]
+大二修習了訊號與系統之後認識了孫民老師，專題就是做CV相關的領域，雖然大學部很少有相關的課程一開始做起來挺吃力的，但是vision相關的研究在結果呈現上或許帶給我較多的期待與成就感，因此並不排斥。
+
+大三時修習影像處理時從事的大多是low level的process，不同於影像處理，computer vision通常追求更high level的task，也更接近artificial intelligence的概念，因此更吸引人。
+
+暑假的實習部門大多在從事computer vision相關的開發與研究，兩個月學到了不少，也更了解machine learning在CV領域的應用，而專題大多是邊做邊學，有時會忽略一些基本知識，因此希望能在老師的computer vision 課程中充實自己在這塊領域的實力。 
 
 ## What do you want to achieve in the course? [ max 500 words]
+我希望能在這門課中學到各種state-of-art的CV algorithms與理論，並且透過理解而能進一步的發想更多更有用的演算法或解決更多相關的問題。
 
 PS. 中文 or English are both fine.
 
-## Due Date: Sept. 23, 2015
