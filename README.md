@@ -1,8 +1,9 @@
-#homework0
+﻿#homework0
 This homework is simply used to check if all students know how to work with git and github (no credit).
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
+hi 
 
 ## Why Computer Vision? [max 500 words]
 
