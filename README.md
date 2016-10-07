@@ -1,5 +1,7 @@
 #homework0
 
+fuckkkkkk
+
 
 ## Brief self-introduction
 I'm Jia-Wei Wei(魏嘉緯），a junior undergraduate student in NTHUEE. I'm interested in Machine Learning and its application (e.g.,Computer Vision, Natural Language Processing). I currently try to build a voice-controlled robot for sending things indoors.
