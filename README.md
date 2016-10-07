@@ -1,6 +1,5 @@
 #homework0
 
-fuckkkkkk
 
 
 ## Brief self-introduction
