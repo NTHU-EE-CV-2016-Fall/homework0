@@ -3,11 +3,9 @@ This homework is simply used to check if all students know how to work with git 
 At the sametime, it also helps me to know you a little bit more :)
 
 ## Brief self-introduction [max 500 words]
-
+Hi I am Gao-yi Chao. I graduated from NTOU and my major was in Communication.My hobby are softball and fitness.I am an aggressive person, and like to learn new things.
 ## Why Computer Vision? [max 500 words]
-
+Research needs
 ## What do you want to achieve in the course? [ max 500 words]
-
-PS. 中文 or English are both fine.
-
-## Due Date: Sept. 24, 2016
+Hope to know well of the basic computer vision skill in the future
+## Due Date: Sept. 20, 2017
