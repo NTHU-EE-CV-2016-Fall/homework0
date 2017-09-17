@@ -16,4 +16,10 @@ Learning the Python coding skills for image analysis.
 
 PS. 中文 or English are both fine.
 
+張鈞閔 Chun-Ming Chang 是中研院資料洞察實驗室的成員
+http://dirl.iis.sinica.edu.tw/members.html
+這幾年多次進行"手把手的深度學習實務"的教學
+http://foundation.datasci.tw/step-by-step-dl-170507/
+對於國內推廣deep learning的使用頗有貢獻
+
 ## Due Date: Sept. 24, 2016
